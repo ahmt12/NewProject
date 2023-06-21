@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dongulerr", "Dongulerr\Dong
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classIntro", "classIntro\classIntro.csproj", "{C244AE06-3401-4D49-89C7-DDF51EE4EF2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methots", "Methots\Methots.csproj", "{EE994F53-00C1-48BB-8C0B-9E88C8D63E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methots", "Methots\Methots.csproj", "{EE994F53-00C1-48BB-8C0B-9E88C8D63E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVEReferansTipler", "DegerVEReferansTipler\DegerVEReferansTipler.csproj", "{A1F6BAC8-C6A7-45BB-A401-983A9ED1B02F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVEReferansTipler", "DegerVEReferansTipler\DegerVEReferansTipler.csproj", "{A1F6BAC8-C6A7-45BB-A401-983A9ED1B02F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{A5311FBD-A706-4F4D-846B-341646441F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{C8B133B0-1D75-43B8-A800-2891665063CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{A1F6BAC8-C6A7-45BB-A401-983A9ED1B02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1F6BAC8-C6A7-45BB-A401-983A9ED1B02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1F6BAC8-C6A7-45BB-A401-983A9ED1B02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5311FBD-A706-4F4D-846B-341646441F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5311FBD-A706-4F4D-846B-341646441F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5311FBD-A706-4F4D-846B-341646441F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5311FBD-A706-4F4D-846B-341646441F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B133B0-1D75-43B8-A800-2891665063CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B133B0-1D75-43B8-A800-2891665063CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B133B0-1D75-43B8-A800-2891665063CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B133B0-1D75-43B8-A800-2891665063CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
