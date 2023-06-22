@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MyList<string> isi = new MyList<string>();
         }
     }
 }
